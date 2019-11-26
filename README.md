@@ -4,4 +4,4 @@ This project exploits the capability of Machine Learning algorithms to classify 
 The Dataset "Mushrooms Classification" is available on Kaggle: https://www.kaggle.com/uciml/mushroom-classification.
 
 I used Knime to develop the project. Workflow is commented in English language, report is written in Italian.  
-![Alt text](/Users/raffaeleanselmo/Desktop/workflow.png?raw=true "Title")
+![Workflow](/Users/raffaeleanselmo/Desktop/workflow.png?raw=true "Title")
