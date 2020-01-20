@@ -3,7 +3,7 @@
  <img src="https://github.com/RaffaeleAns/AML-Assignments/blob/master/images/Bicocca%20Logo.png" width = "100" align="right"/>
 </p>
 
-# Mushrooms-Classification
+# Mushrooms Classification
 This Project has been developed by me and [Lorenzo Pastore](https://github.com/LorenzoPastore).
 This project exploits the capability of Machine Learning algorithms to classify edible and poisonous mushrooms
 
